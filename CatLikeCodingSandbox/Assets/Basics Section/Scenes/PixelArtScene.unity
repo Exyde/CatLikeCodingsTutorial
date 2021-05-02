@@ -453,11 +453,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5229145721200965396, guid: 57b35d22f0aa9aa4086f031fb407e57e, type: 3}
       propertyPath: function
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5229145721200965396, guid: 57b35d22f0aa9aa4086f031fb407e57e, type: 3}
       propertyPath: resolution
-      value: 30
+      value: 72
       objectReference: {fileID: 0}
     - target: {fileID: 5229145721200965397, guid: 57b35d22f0aa9aa4086f031fb407e57e, type: 3}
       propertyPath: m_Name
