@@ -11,7 +11,7 @@ public class Graph : MonoBehaviour
 	FunctionLibrary.FunctionName transitionFunction;
 
 	[SerializeField]
-	[Range(10, 100)] int resolution  = 10;
+	[Range(10, 200)] int resolution  = 10;
 
 	[SerializeField]
 	FunctionLibrary.FunctionName function = default;

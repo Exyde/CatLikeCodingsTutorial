@@ -1,0 +1,28 @@
+Base path: '/home/sly/Documents/UnityEditors/2021.1.22f1/Editor/Data', plugins path '/home/sly/Documents/UnityEditors/2021.1.22f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: compileComputeKernel
+  insize=653 file=/home/sly/workspace/unity/CatLikeCodingsTutorial/CatLikeCodingSandbox/Assets/Basics Section/Scripts/FunctionLibrary.compute kernel=FunctionKernel cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=24 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=vulkan flags=4096 reqs=16385 forceDXC=0 forceFXC=0  error: 1 plat 18 at FunctionLibrary.compute(22): implicit truncation of vector type
+  error: 2 plat 18 at FunctionLibrary.compute(23): invalid subscript 'y'
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=653 file=/home/sly/workspace/unity/CatLikeCodingsTutorial/CatLikeCodingSandbox/Assets/Basics Section/Scripts/FunctionLibrary.compute kernel=FunctionKernel cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=24 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=glcore flags=4096 reqs=16385 forceDXC=0 forceFXC=0  error: 1 plat 15 at FunctionLibrary.compute(22): implicit truncation of vector type
+  error: 2 plat 15 at FunctionLibrary.compute(23): invalid subscript 'y'
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=654 file=/home/sly/workspace/unity/CatLikeCodingsTutorial/CatLikeCodingSandbox/Assets/Basics Section/Scripts/FunctionLibrary.compute kernel=FunctionKernel cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=24 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=vulkan flags=4096 reqs=16385 forceDXC=0 forceFXC=0  error: 2 plat 18 at FunctionLibrary.compute(23): undeclared identifier 'Wave'
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=668 file=/home/sly/workspace/unity/CatLikeCodingsTutorial/CatLikeCodingSandbox/Assets/Basics Section/Scripts/FunctionLibrary.compute kernel=FunctionKernel cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=24 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=vulkan flags=4096 reqs=16385 forceDXC=0 forceFXC=0  error: 2 plat 18 at FunctionLibrary.compute(23): undeclared identifier 'Wave'
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=654 file=/home/sly/workspace/unity/CatLikeCodingsTutorial/CatLikeCodingSandbox/Assets/Basics Section/Scripts/FunctionLibrary.compute kernel=FunctionKernel cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=24 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=glcore flags=4096 reqs=16385 forceDXC=0 forceFXC=0  error: 2 plat 15 at FunctionLibrary.compute(23): undeclared identifier 'Wave'
+ ok=0 outsize=0
+
+Cmd: compileComputeKernel
+  insize=655 file=/home/sly/workspace/unity/CatLikeCodingsTutorial/CatLikeCodingSandbox/Assets/Basics Section/Scripts/FunctionLibrary.compute kernel=FunctionKernel cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=24 km=<UNITY_VERSION=202119> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=glcore flags=4096 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=2123
+
